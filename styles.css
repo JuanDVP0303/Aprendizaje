@@ -1,0 +1,16 @@
+body{
+	background: indianred;
+	color: black;
+	font-family: "Arial";
+}
+
+.titulos{
+	text-align: center;
+	color:white;
+	text-shadow:black 2px 2px ;
+}
+
+.imagen{
+	display: block;
+	margin: 0 auto;
+}

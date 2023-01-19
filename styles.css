@@ -1,7 +1,8 @@
 body{
 	background: indianred;
 	color: black;
-	font-family: "Helvetica";
+	font-family: "Arial";
+	text-align: justify;
 	text-shadow: white 1px 1px;
 }
 

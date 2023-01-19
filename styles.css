@@ -1,7 +1,8 @@
 body{
 	background: indianred;
 	color: black;
-	font-family: "Arial";
+	font-family: "Helvetica";
+	text-shadow: white 1px 1px;
 }
 
 .titulos{

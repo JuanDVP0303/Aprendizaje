@@ -16,3 +16,11 @@ body{
 	display: block;
 	margin: 0 auto;
 }
+
+#footer{
+	background: ghostwhite;
+	color: black;
+	text-align: center;
+	text-shadow: black 0px 1px;
+	padding: 0.5em;
+}

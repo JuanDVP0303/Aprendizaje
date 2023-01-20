@@ -17,6 +17,7 @@ body{
 	margin: 0 auto;
 }
 
+
 #cabecera{
 	background:darkred;
 	box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
@@ -29,3 +30,12 @@ padding:.5em}
 
 #cabecera #logo{
 	width:35px;vertical-align:middle}
+
+#footer{
+	background: ghostwhite;
+	color: black;
+	text-align: center;
+	text-shadow: black 0px 1px;
+	padding: 0.5em;
+}
+

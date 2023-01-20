@@ -1,18 +1,31 @@
 body{
 	background: indianred;
-	color: black;
+	color: whitesmoke;
 	font-family: "Arial";
 	text-align: justify;
-	text-shadow: white 1px 1px;
+	text-shadow: black; 1px 1px;
 }
 
 .titulos{
 	text-align: center;
 	color:white;
-	text-shadow:black 2px 2px ;
+	text-shadow:black; 2px 2px ;
 }
 
 .image{
 	display: block;
 	margin: 0 auto;
 }
+
+#cabecera{
+	background:darkred;
+	box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
+	color:#fff;
+	font-weight:700;
+	margin:0;
+	text-align: center;
+	
+padding:.5em}
+
+#cabecera #logo{
+	width:35px;vertical-align:middle}
